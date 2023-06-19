@@ -2,7 +2,7 @@
 services:
   - type: web
     plan: free
-    name: Hope-again-recovery
+    name: Hope-again-recovery-home
     region: frankfurt
     env: node
     buildCommand: npm ci --include dev; npm run build; npm prune --omit dev
