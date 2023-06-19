@@ -1,6 +1,6 @@
 # Starter Kit
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/tersiakoetzee/Hope-Again-Recovery)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/anthonymogotlane/Hope-Again-Recovery)
 
 - [x] Full stack ES8+ with [Babel]
 - [x] [Node] LTS support (verified working on 14.x, 16.x and 18.x LTS releases)
